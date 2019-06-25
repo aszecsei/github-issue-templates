@@ -1,12 +1,25 @@
 ## A collection of GitHub issue and pull request templates
 
-GitHub finally supports [issue template](https://github.com/blog/2111-issue-and-pull-request-templates).
+*Update*: GitHub now also supports [multiple issue templates](https://help.github.com/articles/about-issue-and-pull-request-templates/).
+
+~~GitHub finally supports [issue template](https://github.com/blog/2111-issue-and-pull-request-templates).~~
+
+# What is an issue template?
+
+[Issue and Pull Request templates](https://blog.github.com/2016-02-17-issue-and-pull-request-templates/)
+
+# How to create a issue template?
+
+- [Creating issue templates for your repository](https://help.github.com/articles/creating-issue-templates-for-your-repository/)
+- [Manually creating a single issue template for your repository](https://help.github.com/articles/manually-creating-a-single-issue-template-for-your-repository/)
 
 # 10+ templates for you to pick!
 
 Find your issue/PR templates, and just grab and go.
 
-Inspired by excellent GitHub projects that use issue and pull request templates.
+*Inspired by excellent GitHub projects that use issue and pull request templates.*
+
+Templates here are either copied from or modified based on real projects on GitHub.
 
 *See also [awesome-github-templates](https://github.com/devspace/awesome-github-templates) for more examples in real projects :tada:*
 
